@@ -28,16 +28,6 @@ The task is part of the **CodTech Machine Learning Internship** program and demo
 - Calculates and displays **accuracy score**
 - **Visualizes** the trained decision tree using `matplotlib`
 
-⚙️ Requirements
-
-Install the required Python libraries using:
-```bash
-pip install -r requirements.txt
-Required Libraries:
-txt
-scikit-learn
-matplotlib.
-
 ## Output:
 
 ![Image](https://github.com/user-attachments/assets/263b6e62-bec7-4d62-9d2a-95725420c704)
