@@ -1,6 +1,20 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : Dharmapuri Madhura Sree
+
+INTERN ID : CT06DF2223
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
 # Task-1-DECISION-TREE-IMPLEMENTATION
+
 DECISION TREE IMPLEMENTATION
-About the Project
+
+## About the Project
 
 This project focuses on implementing a **Decision Tree Classifier** to perform classification on a well-known dataset using the `scikit-learn` library. The goal is to learn how decision trees split data, make predictions, and how we can visualize those decisions clearly.
 The task is part of the **CodTech Machine Learning Internship** program and demonstrates practical use of supervised machine learning techniques for classification problems.
@@ -23,3 +37,6 @@ Required Libraries:
 txt
 scikit-learn
 matplotlib
+
+## output:
+
