@@ -40,3 +40,4 @@ matplotlib
 
 ## output:
 
+![Image](https://github.com/user-attachments/assets/263b6e62-bec7-4d62-9d2a-95725420c704)
